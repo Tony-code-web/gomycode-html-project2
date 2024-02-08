@@ -1,0 +1,31 @@
+/* changes to the style */
+* {
+box-sizing: border-box;
+border: 0;
+margin: 0;
+padding: 0;
+
+
+}
+
+
+body {
+
+    font-size: 16px;
+    background-color:gold ;
+   
+}
+
+ h1,h2{
+   color:green ;
+}
+p {
+    font-family:'Tahoma';
+    background-color: aliceblue;
+    color: red;
+
+}
+
+
+
+
